@@ -27,14 +27,14 @@ yarn chain
 > in a second terminal window, 🛰 deploy your contract (locally):
 
 ```sh
-cd challenge-2-token-vendor
+cd zk-hello-world
 yarn deploy
 ```
 
 > in a third terminal window, start your 📱 frontend:
 
 ```sh
-cd challenge-2-token-vendor
+cd zk-hello-world
 yarn start
 ```
 
